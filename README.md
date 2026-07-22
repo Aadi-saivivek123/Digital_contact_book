@@ -1,4 +1,4 @@
-Project Checklist & Tracker 
+Project Checklist & Tracker
 
 Contact Class (modules/contact.py)
  Create Contact class
